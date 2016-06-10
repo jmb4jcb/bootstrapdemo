@@ -26,3 +26,11 @@
 @media	only screen and (min-width: 961px){
 	body{background-color: teal;}
 	}
+
+	.foot {
+		text-align: center
+	}
+	.nav1 ul {
+
+		list-style-type: none;
+	}
